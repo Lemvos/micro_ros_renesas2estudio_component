@@ -1,0 +1,3 @@
+[submodule "library_generation/extra_packages/ros_custom_messages"]
+	path = library_generation/extra_packages/ros_custom_messages
+	url = https://github.com/Lemvos/ros_custom_messages.git
