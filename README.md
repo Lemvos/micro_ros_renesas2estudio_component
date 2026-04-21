@@ -1,5 +1,6 @@
 ![banner](.images/banner-dark-theme.png#gh-dark-mode-only)
 ![banner](.images/banner-light-theme.png#gh-light-mode-only)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLemvos%2Fmicro_ros_renesas2estudio_component.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLemvos%2Fmicro_ros_renesas2estudio_component?ref=badge_shield)
 
 # micro-ROS for Renesas e<sup>2</sup> studio
 
@@ -19,6 +20,9 @@ This package eases the integration of [micro-ROS](https://micro.ros.org/) in a [
   - [Known Issues / Limitations](#known-issues--limitations)
 
 ---
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLemvos%2Fmicro_ros_renesas2estudio_component.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLemvos%2Fmicro_ros_renesas2estudio_component?ref=badge_large)
+
 ## Supported platforms
 
 | MCU | Family | Reference board | Transports |
